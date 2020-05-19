@@ -1,5 +1,5 @@
 const playlist = {
-  artist: song
+  artistName: songTitle
 }
 
 function updatePlaylist({}, name, title) {
